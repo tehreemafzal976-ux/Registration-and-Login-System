@@ -55,5 +55,3 @@ This system provides basic authentication functionality by allowing users to reg
 
 ---
 
-## 📁 File Structure
-
